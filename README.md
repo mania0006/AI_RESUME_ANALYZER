@@ -189,11 +189,11 @@ Distributed under the MIT License. See `LICENSE` for details.
 
 ## 👤 Author
 
-**Mania**
+**Mania Ashar**
 Computer Science undergraduate, NED University of Engineering & Technology — specializing in Artificial Intelligence
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-name](https://linkedin.com/in/your-name)
+- GitHub: https://github.com/mania0006
+- LinkedIn: https://www.linkedin.com/in/mania-ashar-a7b96535a/
 
 <div align="center">
 
