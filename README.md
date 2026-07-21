@@ -25,12 +25,29 @@
 
 Every account has its own private, saved history — nobody else can see your analyses but you.
 
+### Landing page
+
 <div align="center">
-
-*[Insert a screenshot or GIF of the report screen here]*
-
+  <img width="950" height="440" alt="ATSmate landing page" src="https://github.com/user-attachments/assets/b7f0a30f-c40a-4ff9-914a-46047b79e70d" />
 </div>
 
+### Login
+
+<div align="center">
+  <img width="947" height="435" alt="Login screen" src="https://github.com/user-attachments/assets/1a48ab70-849a-48b8-8a03-04538e2241aa" />
+</div>
+
+### Analysis report
+
+<div align="center">
+  <img width="947" height="434" alt="Match score, seal, and sidebar overview" src="https://github.com/user-attachments/assets/9ffb66cf-bf5c-44cf-8ac3-a1b906e79128" />
+  <br/><br/>
+  <img width="938" height="430" alt="Line-by-line feedback with suggested rewrites" src="https://github.com/user-attachments/assets/10f28f74-db6f-4ee4-bb44-0aea76924cd9" />
+  <br/><br/>
+  <img width="939" height="435" alt="Keyword matching and skills detected" src="https://github.com/user-attachments/assets/5b15af2c-2097-459f-b56c-d3f8c439e2af" />
+  <br/><br/>
+  <img width="940" height="439" alt="Strengths, weaknesses, and suggestions" src="https://github.com/user-attachments/assets/907c0f8c-53e7-4874-b0ff-d44812f756df" />
+</div>
 ---
 
 ## ✨ Features
