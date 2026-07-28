@@ -15,12 +15,10 @@ if (!fs.existsSync(UPLOAD_DIR)) {
   fs.mkdirSync(UPLOAD_DIR, { recursive: true });
 }
 
-// Lock CORS down to a known origin in production. Set CORS_ORIGIN in .env
-// (e.g. https://yourapp.com); falls back to allow-all for local dev only.
-const corsOptions = process.env.CORS_ORIGIN
-  ? { origin: process.env.CORS_ORIGIN }
-  : {};
-app.use(cors(corsOptions));
+app.use(cors({
+  origin: 'https://ats-mate-ivory.vercel.app',
+  credentials: true
+}));
 app.use(express.json());
 
 // The upload route calls a paid Groq API per request — rate-limit it
