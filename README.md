@@ -13,7 +13,6 @@
 [![Groq](https://img.shields.io/badge/AI-Groq-orange?style=for-the-badge)](https://groq.com/)
 [![License](https://img.shields.io/badge/License-MIT-9CA5BE?style=for-the-badge)](#license)
 
-[Live Demo](#) · [Report a Bug](#) · [Request a Feature](#)
 
 </div>
 
